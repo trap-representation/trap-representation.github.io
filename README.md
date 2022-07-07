@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+Hi there, trap-representation here.
 
-You can use the [editor on GitHub](https://github.com/trap-representation/trap-representation.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a self-taught C programmer, who likes to write *strcitly standard conforming* code. Heck I have read n1570's section 6.5p6 and p7 so many times now, just to make sure *I'm not mis-interpreting what the standard draft says*, that strict-aliasing doesn't even scare me anymore.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Also, checking return values is great!
 
-### Markdown
+I don't really like people who write non-standard code, and thinks that a program that's literally invoking UB will "just work" the same on a Monday afternoon the way it did on a Friday night.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Well, if you're one of those people though, just be sure to look outside your window after you run/compile your code (depends on the type of UB you're invoking), to make sure there is no UFO outside your house.
 
-```markdown
-Syntax highlighted code block
+I also upload demos of the things that build (most of which are VMs, assemblers and compilers) on my YouTube channel [here](https://www.youtube.com/channel/UC0j25PUywdrQGOR2jWkuPHg).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trap-representation/trap-representation.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+PS:
+- I don't support the Indian Education System
+- Tech support scammers suck
+- I support people like Jim Browning and Kitboga
