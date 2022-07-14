@@ -12,6 +12,13 @@ And if you want to see a realistic example of what happens when you invoke UB, c
 
 I also upload demos of the things that build (most of which are VMs, assemblers and compilers) on my YouTube channel [here](https://www.youtube.com/channel/UC0j25PUywdrQGOR2jWkuPHg).
 
+Also, if you're learning C, here are some tips for you:
+- Do **NOT** learn C from YouTube tutorials, because 99% of them are really bad
+- Do **NOT** use these books, because they are probably the worst books on C (worst as in misleading and full of made up stuff that are not even true) that you'll ever find: `Let Us C`, `Rudiments of Computer Science`, `Programming in ANSI C`
+- Do **NOT** use geeksforgeeks, because 99% of the things there are written by people who don't even have any idea what they're talking about
+
+As a completely self-taught programmer, I had learned a lot of incorrect stuff by reading these books, websites, heck even from my school, and I had to almost relearn everything from scratch. The reason I wrote this is so that you don't have to go through the same pain of relearning everything from scratch like I did.
+
 PS:
 - I don't support the Indian Education System
 - Tech support scammers suck
