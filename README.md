@@ -10,7 +10,7 @@ Well, if you're one of those people though, just be sure to look outside your wi
 
 And if you want to see a realistic example of what happens when you invoke UB, check out [this animation I made](https://youtu.be/-gVAP8YMlk0) just for people like you. This is based on a true story... well, semi-true.
 
-I also upload demos of the things that I build (most of which are VMs, assemblers and compilers) on my YouTube channel [here](https://www.youtube.com/channel/UC0j25PUywdrQGOR2jWkuPHg).
+I also upload demos of the things that I build (most of which are compilers and implementations of custom instruction sets) on my YouTube channel [here](https://www.youtube.com/channel/UC0j25PUywdrQGOR2jWkuPHg).
 
 Also, if you're learning C, here are some tips for you:
 - Do **NOT** learn C from YouTube tutorials, because 99% of them are really bad
