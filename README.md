@@ -26,6 +26,8 @@ Ways you can contact me:
 - IRC\[0\]: ThatSegFaultGuy on libera chat
 - IRC\[1\]: trap-rep on libera chat
 
+---
+
 PS:
 - I don't support the Indian Education System
 - Tech support scammers suck
