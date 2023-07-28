@@ -1,12 +1,10 @@
 Hi there, trap-representation here.
 
-I'm a self-taught C programmer, who likes to write *strcitly standard conforming* code. Heck I have read n1570's section 6.5p6 and p7 so many times now, just to make sure *I'm not mis-interpreting what the standard draft says*, that strict-aliasing doesn't even scare me anymore.
+I'm a self-taught C programmer, who likes to write *strcitly standard conforming* code.
 
-Also, checking return values is great!
+I don't really like people who write non-standard code, and think that a program that literally has undefined behavior will "just work" the same on a Monday afternoon the way it did on a Friday night.
 
-I don't really like people who write non-standard code, and thinks that a program that's literally invoking UB will "just work" the same on a Monday afternoon the way it did on a Friday night.
-
-Well, if you're one of those people though, just be sure to look outside your window after you run/compile your code (depends on the type of UB you're invoking), to make sure there is no UFO outside your house.
+Well, if you're one of those people though, just be sure to look outside your window after you execute/translate the output/source file, to make sure there is no UFO outside your house.
 
 And if you want to see a realistic example of what happens when you invoke UB, check out [this animation I made](https://youtu.be/-gVAP8YMlk0) just for people like you. This is based on a true story... well, semi-true.
 
