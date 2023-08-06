@@ -17,7 +17,7 @@ Also, if you're learning C, here are some tips for you:
 
 As a completely self-taught programmer, I had learned a lot of incorrect stuff from these books and websites. Heck, even my school taught me a heck load of things on C that are totally just made up by the lecturers and don't even make any sense, and I had to relearn almost everything from scratch. The reason I wrote this is so that you don't have to go through the same pain of relearning everything from scratch like I did.
 
-Ways you can contact me:
+Want to contact me? Here are the platforms I am on:
 - Email: programmertotherescue AT gmail DOT com
 - Twitter: @sequence_point
 - Reddit: u/trap-representation
